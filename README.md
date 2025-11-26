@@ -1,14 +1,14 @@
-<!-- Hero Section dengan Gradient Text -->
+<!-- Hero Section -->
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
+  <span style="background: linear-gradient(to right, #ff416c, #ff4b2b); -webkit-background-clip: text; color: transparent;">
     👋 Halo, Selamat Datang di first!
   </span>
 </h1>
-<p align="center">🚀 Belajar, Eksperimen, dan Membuat Project Keren di GitHub</p>
+<p align="center">🚀 Project Keren oleh <b>Aji Art</b> — Belajar & Eksperimen di GitHub</p>
 
 <!-- GIF Hero -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlPjezRkR6a5kXy/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://media.giphy.com/media/l0HlPjezRkR6a5kXy/giphy.gif" alt="Coding GIF" width="350"/>
 </p>
 
 <!-- Badges -->
@@ -16,26 +16,28 @@
   <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"></a>
   <a href="#"><img src="https://img.shields.io/badge/Language-Python-blue" alt="Language"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"></a>
-  <a href="https://github.com/USERNAME/first/stargazers"><img src="https://img.shields.io/github/stars/USERNAME/first?style=social" alt="Stars"></a>
+  <a href="https://github.com/AjiArt/first/stargazers"><img src="https://img.shields.io/github/stars/AjiArt/first?style=social" alt="Stars"></a>
 </p>
 
-<!-- CTA Buttons -->
+<!-- Call to Action Buttons -->
 <p align="center">
-  <a href="#instalasi" style="background-color:#4CAF50;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">🚀 Mulai Sekarang</a>
-  <a href="#kontribusi" style="background-color:#008CBA;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">🤝 Kontribusi</a>
+  <a href="#instalasi" style="background-color:#4CAF50;color:white;padding:10px 25px;border-radius:5px;text-decoration:none;font-weight:bold;">🚀 Mulai Sekarang</a>
+  <a href="#kontribusi" style="background-color:#008CBA;color:white;padding:10px 25px;border-radius:5px;text-decoration:none;font-weight:bold;">🤝 Kontribusi</a>
 </p>
 
 <!-- Deskripsi Singkat -->
 <p align="center">
-  Ini adalah repository pertama saya di GitHub, tempat saya belajar <b>Git, GitHub, dan coding</b> sambil membuat project yang menyenangkan dan bermanfaat.
+  Ini adalah repository pertama saya di GitHub.  
+  Tempat saya, <b>Aji Art</b>, belajar Git, coding, dan membuat project yang seru & bermanfaat.
 </p>
 
 <!-- Fitur -->
 <h2>✨ Fitur / Tujuan</h2>
 <ul>
-  <li>📚 Belajar Git & GitHub</li>
-  <li>💻 Mencoba project sederhana</li>
+  <li>📚 Belajar Git & GitHub dengan project nyata</li>
+  <li>💻 Mencoba project sederhana & praktis</li>
   <li>🌟 Membuat kode lebih terstruktur & mudah dibagikan</li>
+  <li>🎨 Personal branding: semua karya Aji Art ada di sini!</li>
 </ul>
 
 <!-- Demo / Screenshot -->
@@ -47,7 +49,7 @@
 <!-- Instalasi -->
 <h2 id="instalasi">📥 Instalasi / Cara Menjalankan</h2>
 <pre>
-git clone https://github.com/USERNAME/first.git
+git clone https://github.com/AjiArt/first.git
 cd first
 # Python
 pip install -r requirements.txt
@@ -68,5 +70,5 @@ Fork repo → buat branch baru → commit perubahan → pull request 🎉
 <!-- Footer -->
 <p align="center">
   ⭐ Jangan lupa beri Star jika kamu suka dengan project ini!<br>
-  <span style="font-size: small;">Made with ❤️ by YOUR_NAME</span>
+  <span style="font-size: small;">Made with ❤️ by <b>Aji Art</b></span>
 </p>
